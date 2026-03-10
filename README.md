@@ -1,5 +1,8 @@
-## Hello guys 
-
+##         ✨Hello✨ 
+## HAPPY TO SEE YOU GUYS HERE ⚡
+## I’m still a beginner in coding. 
+## I hope to get advice from everyone.
+## I also hope you will like my project. 😄
 <!--
 **kipper0420/kipper0420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
