@@ -1,5 +1,5 @@
 ##         ✨Hello✨ 
-## HAPPY TO SEE YOU GUYS HERE ⚡
+## Happy to see you guys here⚡
 ## I’m still a beginner in coding. 
 ## I hope to get advice from everyone.
 ## I also hope you will like my project. 😄
